@@ -1,0 +1,11 @@
+# .gitignore file for java spring boot project. for VS Code
+
+### Java ###
+*.class
+*.war
+
+# Package Files #
+*.jar
+
+# virtual machine crash logs, see https://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
